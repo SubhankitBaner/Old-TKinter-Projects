@@ -1,4 +1,4 @@
-# Restructuring My Old Tkinter Projects
+## My Old Tkinter Projects
 
 This repository is a personal project to revisit, clean up, and document some of my earlier projects built with Python's Tkinter library. It's an exercise in appreciating how far I've come and giving my old work a proper, organized home.
 
