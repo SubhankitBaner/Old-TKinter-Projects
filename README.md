@@ -36,9 +36,9 @@ A classic text editor application with essential features, mimicking the functio
 
 | Initial State                                    | Saving a File                                      |
 | :----------------------------------------------: | :------------------------------------------------: |
-| ![Notepad Initial State](screenshot/screenshot2.png) | ![Save As Dialog](screenshot/screenshot4.png) |
+| ![Notepad Initial State](screenshot/screenshot1.png) | ![Save As Dialog](screenshot/screenshot2.png) |
 | **Menu Options** | **Saved File in Explorer** |
-| ![Notepad Menu](screenshot/screenshot3.png)       | ![Saved File](screenshot/screenshot5.png)      |
+| ![Notepad Menu](screenshot/screenshot3.png)       | ![Saved File](screenshot/screenshot4.png)      |
 
 ## Folder Structure
 
