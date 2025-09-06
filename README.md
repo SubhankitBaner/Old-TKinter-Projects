@@ -42,21 +42,22 @@ A classic text editor application with essential features, mimicking the functio
 
 ## Folder Structure
 
-Old-TKinter-Projects/
-├── calculator.py
-├── notepad.py
-├── README.md
-├── icons/
-│   ├── 1.ico
-│   ├── 2.ico
-│   └── 3.ico
-└── screenshots/
-    ├── screenshot1.png
-    ├── screenshot2.png
-    ├── screenshot3.png
-    ├── screenshot4.png
-    ├── screenshot5.png
-    └── screenshot6.png
+### Folder Structure
+
+- `calculator.py`
+- `notepad.py`
+- `README.md`
+- `icons/`
+  - `1.ico`
+  - `2.ico`
+  - `3.ico`
+- `screenshots/`
+  - `screenshot1.png`
+  - `screenshot2.png`
+  - `screenshot3.png`
+  - `screenshot4.png`
+  - `screenshot5.png`
+  - `screenshot6.png`
 
 ## How to Run
 
